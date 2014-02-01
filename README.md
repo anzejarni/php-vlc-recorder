@@ -19,9 +19,7 @@ Configurability:
 - Localization
 
 Installation:
-- Directory php-vlc-recorder/public_html should be readable by webserver
-- Directory php-vlc-recorder/public_html/recordings should be writable by webserver
-- 
+- Be described soon
 
 TODO:
 - Implement a database to withstand server power outage
